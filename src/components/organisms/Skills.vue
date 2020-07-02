@@ -35,7 +35,8 @@
                     {name: "Swift", detail: "UIKit"},
                     {name: "HTML", detail: "Jinja2 / ejs"},
                     {name: "CSS", detail: "Bootstrap"},
-                    {name: "Database", detail: "PostgreSQL / MongoDB"}
+                    {name: "Database", detail: "PostgreSQL / MongoDB"},
+                    {name:"Docker",detail: "Docker / Docker Compose"}
                 ]
             }
         }
